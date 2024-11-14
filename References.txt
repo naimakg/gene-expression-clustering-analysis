@@ -1,0 +1,7 @@
+References
+
+[1] A. K. Jain, “Data clustering: 50 years beyond K-means”, Pattern Recognition Letters, Volume 31, Issue 8, 1, Pages 651-666, June 2010
+
+[2] DeRisi, J.L., Iyer, V.R. and Brown, P.O., "Exploring the metabolic and genetic control of gene expression on a genomic scale", Science, 278(5338):680-6, 1997
+
+[3] J. Jay, J. Eblen, Y. Zhang, M. Benson, A. Perkins, A. Saxton, B. Voy, E. Chesler and M. Langston, “A systematic comparison of genome-scale clustering algorithms”, BMC Bioinformatics, 13 (Suppl 10) :S7, 2012
