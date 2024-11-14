@@ -5,9 +5,7 @@ Gene Expression Clustering Analysis
 Overview
 --------
 
-This notebook performs a gene expression clustering analysis to identify gene expression patterns before and after the diauxic shift.  
-Several clustering algorithms, including K-means, Gaussian Mixture Models (GMM), Ward, and Birch, are applied to analyze the data.  
-The notebook explores different clustering configurations, visualizes the results, and compares the performance of each algorithm.
+This notebook performs a gene expression clustering analysis to identify gene expression patterns before and after the diauxic shift. Several clustering algorithms, including K-means, Gaussian Mixture Models (GMM), Ward, and Birch, are applied to analyze the data. The notebook explores different clustering configurations, visualizes the results, and compares the performance of each algorithm.
 
 The primary goal of this analysis is to identify clusters of genes that exhibit similar expression patterns over time.  
 This will help in understanding the changes in gene expression related to the diauxic shift.
